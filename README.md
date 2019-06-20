@@ -2,6 +2,8 @@
 
 ![](./assets/config-gear.jpg)
 
+> A working solution available at Github. https://github.com/angularlicious/configuration-for-libraries
+
 The Angular Workspace provides the ability to have multiple library and application projects in a single environment. Although this capability has been available since version 6, I find that many developers and teams are not taking full advantage of shared libraries. Having the ability to share and reuse code in the form of libraries adds to the effectiveness of your development team.
 
 Think of the many shared libraries that would benefit your Angular applications. Here is a list of different library types that are common to applications.
