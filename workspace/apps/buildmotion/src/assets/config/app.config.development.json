@@ -1,0 +1,15 @@
+{
+  "loggingConfig": {
+    "applicationName": "BuildMotion",
+    "version": "1.0.0",
+    "isProduction": false
+  },
+  "logglyConfig": {
+    "apiKey": "YOUR-API-KEY-HERE",
+    "sendConsoleErrors": true
+  },
+  "errorHandlingConfig": {
+    "name": "BuildMotion",
+    "includeDefaultErrorHandling": true
+  }
+}

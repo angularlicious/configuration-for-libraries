@@ -1,0 +1,39 @@
+{
+  "npmScope": "angularlicious",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "configuration": {
+      "tags": []
+    },
+    "error-handling": {
+      "tags": []
+    },
+    "logging": {
+      "tags": []
+    },
+    "rules-engine": {
+      "tags": []
+    },
+    "http-service": {
+      "tags": []
+    },
+    "actions": {
+      "tags": []
+    },
+    "foundation": {
+      "tags": []
+    },
+    "buildmotion-e2e": {
+      "tags": []
+    },
+    "buildmotion": {
+      "tags": []
+    }
+  }
+}

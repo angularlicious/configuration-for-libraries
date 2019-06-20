@@ -1,0 +1,13 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "types": ["node", "jest"]
+  },
+  "include": [
+    "**/*.ts",
+    "../logging/src/lib/config/i-logging-config.ts",
+    "../logging/src/lib/config/logging-config.ts",
+    "../error-handling/src/lib/error-handling-config.ts",
+    "../logging/src/lib/config/i-loggly-config.ts"
+  ]
+}
