@@ -240,6 +240,8 @@ This is a functional logging service that can be used by any number of applicati
 3. the service **handles** a configuration value emitted by the ReplaySubject.
 4. the service can **validate** and provide any required **default** values based on the configuration
 
+> Note: You can learn more about the log writers by reviewing the code in the GitHub repository. https://github.com/angularlicious/configuration-for-libraries
+
 ## Application Configuration
 
 The actually configuration for the application should be consistent and typed. It should also be environment specific. Therefore, the application should have a configuration defined for each application environment. Use the same convention of the _environment_ constant.
